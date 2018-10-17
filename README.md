@@ -1,7 +1,5 @@
 "# Android" 
 
-"# Android" 
-
 1.설정과 초기 1.1 전역 사용자명/이메일 구성하기
 
 ● git config - -global user.name “Your name”
@@ -367,3 +365,6 @@ Markdown은 텍스트 기반의 마크업언어로 2004년 존그루버에 의�
 2.6. 강조 single asterisks _single underscores_ double asterisks __double underscores__ ++underline++ cancelline
 
 2.7. 이미지 Alt text Alt text 사이즈 조절 기능은 없기 때문에 를 이용한다.
+
+
+●지워야 합니다.
